@@ -1,7 +1,7 @@
 var settings = {
-    "api_key": "RGAPI-d36b4957-4c3b-4239-bcd3-54aea8f5892f", // Your API key, https://developer.riotgames.com/
+    "api_key": "YOUR_KEY_HERE", // Your API key, https://developer.riotgames.com/
     "summoner_name": "FREE ELMILLOwO", // Your summoner name
-    "summoner_id": "113978624", // ESTO ES NUEVO, es la id de la cuenta 113978627
+    "summoner_id": "113978624", // ESTO ES NUEVO, es la id de la cuenta
     "interval": 5000, // Refresh interval in ms
     "container_width": 400, // The container width in px
     "text_color": "#000000", // The text color
